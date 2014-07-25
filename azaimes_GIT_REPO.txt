@@ -1,0 +1,18 @@
+What type of log file is it?
+These are access logs, error logs and security logs. 
+
+What are the dates which are represented by the logs?
+The dates are between December and January 2013. 
+
+How many unique users appear?
+
+What was the largest data export? and does it look out of the ordinary?
+31028 is the largest data export, it is unique since it is the only instance I could see of the file being downloaded. 
+
+What is the most common error found in the error logs?
+File doesn't exist error. 
+
+Do you see anything which is out of the ordinary?
+There are many attempts to login via ssh with failed passwords, due to the fact they are seconds apart it looks like someone trying a brute force attack. 
+
+Each log file contained 
