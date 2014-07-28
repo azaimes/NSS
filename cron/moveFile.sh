@@ -1,4 +1,4 @@
 #!/bin/bash
-#move file1.txt to folder2
-
+cd $home
 mv file1.txt /home/azaimes/folder2
+echo "File has been moved"
